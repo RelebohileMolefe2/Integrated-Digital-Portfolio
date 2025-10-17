@@ -31,7 +31,7 @@ Each section includes tangible **evidence** and **reflections** written using th
 - [Watch Mock Interview Video](https://github.com/wil-it2025/cv-tutorial-RelebohileMolefe2/blob/main/Mock-Interview.mp4)
 - [Link to Mock Interview Video](https://drive.google.com/file/d/11qwCJyoc1yv6Xr225rB7AzIn0wcAtVVp/view?usp=drive_link)
 
-### 💬 Reflection (STAR)
+### Reflection (STAR)
 **S**ituation: I needed guidance to clarify my professional direction.  
 **T**ask: Seek expert advice and complete a career self-assessment.  
 **A**ction: Engaged with the CPUT career office and completed evaluation tools.  
@@ -41,15 +41,16 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ##2. Business Communication
 
-### 📄 Evidence
-- Screenshot of job application emails sent to potential employers for WIL placements.  
-- [📄 View My CV (PDF, Opens in Browser)](https://github.com/user-attachments/files/20416166/CV_RB.MOLEFE.pdf)  
-- [📄 View My Cover Letter (PDF, Opens in Browser)](https://github.com/user-attachments/files/20416170/Cover_Letter_Relebohile_Molefe.pdf)
+### Evidence
+- Screenshot of job application emails sent to potential employers for ICT internships Programmes, one of them being the Rain company.
+- [Email sent to Rain]()  
+  [View My CV (PDF, Opens in Browser)](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/RB%20MOLEFE_CV.pdf)  
+  [View My Cover Letter (PDF, Opens in Browser)](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/Cover%20Letter.pdf)
 
-> 💬 *These emails demonstrate professionalism, tone, and structure used in real job applications.*
+> *This is the email I had sent to the Rain company, it demonstrates professionalism, tone, and structure used in real job applications.*
 
-### 💬 Reflection (STAR)
-**S**ituation: I needed to communicate effectively when applying for WIL opportunities.  
+### Reflection (STAR)
+**S**ituation: I needed to communicate effectively when applying for WIL opportunities(ICT internship Programmes).  
 **T**ask: Write professional, clear, and formal job application emails.  
 **A**ction: Drafted and sent structured emails with attached CVs and cover letters, ensuring proper etiquette and clarity.  
 **R**esult: Improved written communication and gained confidence in engaging professionally with potential employers.
