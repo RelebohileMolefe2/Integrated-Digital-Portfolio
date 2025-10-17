@@ -43,7 +43,7 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ### Evidence
 - Screenshot of job application emails sent to potential employers for ICT internships Programmes, one of them being the Rain company.
-- [Email sent to Rain]()  
+- ![Email sent to Rain](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/Job%20Application%20Email.png)  
   [View My CV (PDF, Opens in Browser)](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/RB%20MOLEFE_CV.pdf)  
   [View My Cover Letter (PDF, Opens in Browser)](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/Cover%20Letter.pdf)
 
@@ -57,16 +57,16 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ---
 
-## 🧠 3. Skills and Interests
+##3. Skills and Interests
 
-### 📄 Evidence
+### Evidence
 - Core Technical Skills: Java, PHP, JavaScript, MySQL, HTML/CSS, Python, Figma, Agile, Scrum  
 - Elective: **Data Analytics (2025)** — Coursework in data wrangling, visualization, and Python for analytics.  
 - Personal Interests: Data science, UX/UI design, mobile app development, gamified learning.  
 - ![Skills and Interests](https://github.com/user-attachments/assets/e7e9987c-3e18-40e1-adb9-35f89d88291f)
 - ![Data Analytics](https://github.com/user-attachments/assets/7c2932bc-8e3e-45fc-a394-1f560b641331)
 
-### 💬 Reflection (STAR)
+### Reflection (STAR)
 **S**ituation: My coursework exposed me to several programming languages and methodologies.  
 **T**ask: Identify the areas that best align with my career aspirations.  
 **A**ction: Completed various projects, explored frontend design, and pursued Data Analytics as an elective.  
@@ -74,13 +74,13 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ---
 
-## 🧬 4. Personality Assessment
+## 4. Personality Assessment
 
-### 📄 Evidence
+### Evidence
 - Online personality assessments highlighted my key traits: analytical, curious, empathetic, and adaptive.  
 - ![Personality Assessment](https://github.com/user-attachments/assets/d8ba08c2-e953-451a-be3f-7abe93dc869d)
 
-### 💬 Reflection (STAR)
+### Reflection (STAR)
 **S**ituation: I wanted to understand my natural tendencies and strengths.  
 **T**ask: Evaluate my working style through personality assessments.  
 **A**ction: Completed online tests and analyzed how my traits influence teamwork and leadership.  
@@ -88,12 +88,12 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ---
 
-## 🧾 5. Create a CV
+## 5. Create a CV
 
-### 📄 Evidence
-- [📄 View My CV (PDF, Opens in Browser)](https://github.com/user-attachments/files/20416166/CV_RB.MOLEFE.pdf)
+### Evidence
+- [View My CV (PDF, Opens in Browser)](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/RB%20MOLEFE_CV.pdf)
 
-### 💬 Reflection (STAR)
+### Reflection (STAR)
 **S**ituation: I needed a professional CV for internship and WIL applications.  
 **T**ask: Develop a clear, visually appealing resume that showcases my technical and soft skills.  
 **A**ction: Designed a well-structured CV with updated projects, achievements, and educational background.  
@@ -101,27 +101,27 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ---
 
-## 📨 6. CV Submission
+## 6. CV Submission
 
 ### 📄 Evidence
-- Submitted my CV and Cover Letter to Capitec Bank as part of WIL application.  
-- [📄 View Cover Letter – Relebohile Molefe](https://github.com/user-attachments/files/20416170/Cover_Letter_Relebohile_Molefe.pdf)
+- Submitted my CV to Brand South Africa as part of WIL application.  
+- [📄 View Cover Letter – Relebohile Molefe](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/RB%20MOLEFE_CV.pdf)
 
 ### 💬 Reflection (STAR)
-**S**ituation: I wanted to apply to Capitec Bank’s Work Integrated Learning program.  
-**T**ask: Write a tailored cover letter and submit my CV professionally.  
-**A**ction: Customized my documents to align with Capitec’s values and innovation goals.  
+**S**ituation: I wanted to apply to Brand South Africa’s Work Integrated Learning program.  
+**T**ask: Write a professional CV and submit it.  
+**A**ction: Customized my documents to align with Brand South Africa’s values and innovation goals.  
 **R**esult: Gained experience in aligning personal branding with company culture and mission.
 
 ---
 
-## 🗣️ 7. Interview Skills
+## 7. Interview Skills
 
-### 📄 Evidence
+### Evidence
 - Notes and materials from mock interview preparation sessions.  
-- [🎥 Watch Mock Interview Video](https://github.com/wil-it2025/cv-tutorial-RelebohileMolefe2/blob/main/Mock-Interview.mp4)
+- [Watch Mock Interview Video](https://github.com/wil-it2025/cv-tutorial-RelebohileMolefe2/blob/main/Mock-Interview.mp4)
 
-### 💬 Reflection (STAR)
+### Reflection (STAR)
 **S**ituation: I needed to build confidence for professional interviews.  
 **T**ask: Prepare for behavioral and technical questions.  
 **A**ction: Practiced using the STAR method and engaged in a mock interview session.  
@@ -129,12 +129,12 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ---
 
-## 🎥 8. Mock Interview
+## 8. Mock Interview
 
-### 📄 Evidence
-- [🎥 Watch My Mock Interview Video](https://github.com/wil-it2025/cv-tutorial-RelebohileMolefe2/blob/main/Mock-Interview.mp4)
+### Evidence
+- [Watch My Mock Interview Video](https://github.com/wil-it2025/cv-tutorial-RelebohileMolefe2/blob/main/Mock-Interview.mp4)
 
-### 💬 Reflection (STAR)
+### Reflection (STAR)
 **S**ituation: I participated in a recorded mock interview simulation.  
 **T**ask: Apply communication strategies and body language skills learned in class.  
 **A**ction: Prepared structured answers, recorded, and reviewed my performance.  
@@ -142,13 +142,13 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ---
 
-## 🌐 9. Professional Networking
+##9. Professional Networking
 
-### 📄 Evidence
-- [🌍 LinkedIn Profile](https://www.linkedin.com/in/relebohile-molefe-2a2a4b234)  
+### Evidence
+- [LinkedIn Profile](https://www.linkedin.com/in/relebohile-molefe-2a2a4b234)  
 - Screenshot of LinkedIn connections or activity posts.
 
-### 💬 Reflection (STAR)
+### Reflection (STAR)
 **S**ituation: Networking was identified as a key career development area.  
 **T**ask: Build a professional online presence and connect with relevant peers and mentors.  
 **A**ction: Optimized my LinkedIn profile and started networking with professionals in ICT and data analytics.  
@@ -156,14 +156,14 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ---
 
-## 🏢 10. Workplace Etiquette
+##10. Workplace Etiquette
 
-### 📄 Evidence
+### Evidence
 - Screenshot or notes from workplace readiness training.  
 - Example of teamwork or communication within a project.  
 - ![Workplace Etiquette Example](https://github.com/user-attachments/assets/a37b2b66-5e3d-4d68-ad2a-ab98c3b7d7ec)
 
-### 💬 Reflection (STAR)
+### Reflection (STAR)
 **S**ituation: Adapting to workplace norms was a core module in the Work Readiness program.  
 **T**ask: Learn professional behavior, punctuality, and ethical collaboration.  
 **A**ction: Participated in workshops on workplace conduct and practiced professional communication.  
@@ -171,11 +171,11 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ---
 
-## 🎀 11. WIL Project: Her Event Canvas
+## 11. WIL Project: Her Event Canvas
 
-### 📄 Evidence
-- [📊 View Brand & Logo Guideline Presentation (PDF)](https://github.com/yourusername/PRP370-Integrated-Portfolio/raw/main/HerEventCanvas_BrandGuideline.pdf)  
-- [🎨 View Figma Prototype](https://www.figma.com/design/lLwHoX73d7UGGFBJIg54ix/Untitled?node-id=0-1&p=f&t=ln8ZzFJ6tWUCzlwP-0)  
+### Evidence
+- [View Brand & Logo Guideline Presentation (PDF)](https://github.com/yourusername/PRP370-Integrated-Portfolio/raw/main/HerEventCanvas_BrandGuideline.pdf)  
+- [View Figma Prototype](https://www.figma.com/design/lLwHoX73d7UGGFBJIg54ix/Untitled?node-id=0-1&p=f&t=ln8ZzFJ6tWUCzlwP-0)  
 - Backend: In progress (Node.js + Firebase)
 - ![Her Event Canvas Presentation](https://github.com/yourusername/PRP370-Integrated-Portfolio/blob/main/her-event-canvas-presentation.png)
 
