@@ -7,7 +7,7 @@
 
 ---
 
-##Introduction
+## Introduction
 
 My academic background in **ICT (Application Development)** has equipped me with a strong foundation in software development and a solid understanding of business principles. I am passionate about using my **technical and analytical skills** to design, develop, and deploy innovative software solutions that improve user experiences and solve real-world problems.
 
@@ -22,9 +22,9 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ---
 
-##1. Career Counselling
+## 1. Career Counselling
 
-###Evidence
+### Evidence
 - Summary and reflection from career development sessions focused on identifying professional goals and strengths.
 - Visual documentation of tasks completed in the career development workshop.
 - ![Career Development Module Screenshot](https://github.com/user-attachments/assets/a37b2b66-5e3d-4d68-ad2a-ab98c3b7d7ec)
@@ -39,7 +39,7 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ---
 
-##2. Business Communication
+## 2. Business Communication
 
 ### Evidence
 - Screenshot of job application emails sent to potential employers for ICT internships Programmes, one of them being the Rain company.
@@ -57,7 +57,7 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ---
 
-##3. Skills and Interests
+## 3. Skills and Interests
 
 ### Evidence
 - Core Technical Skills: Java, PHP, JavaScript, MySQL, HTML/CSS, Python, Figma, Agile, Scrum  
@@ -103,11 +103,11 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ## 6. CV Submission
 
-### 📄 Evidence
+### Evidence
 - Submitted my CV to Brand South Africa as part of WIL application.  
-- [📄 View Cover Letter – Relebohile Molefe](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/RB%20MOLEFE_CV.pdf)
+- [View Cover Letter – Relebohile Molefe](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/RB%20MOLEFE_CV.pdf)
 
-### 💬 Reflection (STAR)
+### Reflection (STAR)
 **S**ituation: I wanted to apply to Brand South Africa’s Work Integrated Learning program.  
 **T**ask: Write a professional CV and submit it.  
 **A**ction: Customized my documents to align with Brand South Africa’s values and innovation goals.  
@@ -142,7 +142,7 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ---
 
-##9. Professional Networking
+## 9. Professional Networking
 
 ### Evidence
 - [LinkedIn Profile](https://www.linkedin.com/in/relebohile-molefe-2a2a4b234)  
@@ -156,7 +156,7 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ---
 
-##10. Workplace Etiquette
+## 10. Workplace Etiquette
 
 ### Evidence
 - Screenshot or notes from workplace readiness training.  
@@ -177,18 +177,18 @@ Each section includes tangible **evidence** and **reflections** written using th
 - [View Brand & Logo Guideline Presentation (PDF)](https://github.com/yourusername/PRP370-Integrated-Portfolio/raw/main/HerEventCanvas_BrandGuideline.pdf)  
 - [View Figma Prototype](https://www.figma.com/design/lLwHoX73d7UGGFBJIg54ix/Untitled?node-id=0-1&p=f&t=ln8ZzFJ6tWUCzlwP-0)  
 - Backend: In progress (Node.js + Firebase)
-- ![Her Event Canvas Presentation](https://github.com/yourusername/PRP370-Integrated-Portfolio/blob/main/her-event-canvas-presentation.png)
+- ![Her Event Canvas Logo](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/HerCanvas.png)
 
-### 💬 Description
-**Her Event Canvas** is my **Work Integrated Learning (WIL)** project focused on building an event management and branding platform. The project involves designing a consistent brand identity, developing a UI prototype, and laying the foundation for the backend system.
+### Description
+**Her Event Canvas** is my **Work Integrated Learning (WIL)** project focused on building an event management and branding platform tailored to celebrate women's milestones in life. Her Event Canvas is about empowering women to plan, personalize and perfect every celebration with curated vendors, creative tools and a woman-centric appraoch. The project involves designing a consistent brand identity, developing a UI prototype, and laying the foundation for the backend system.
 
 Skills demonstrated:
-- 🎨 UI/UX Design using **Figma**
-- 🧱 Backend setup with **Node.js** and **Firebase**
-- 🧭 Brand identity creation and visual documentation
-- 💬 Professional presentation and client communication
+- UI/UX Design using **Figma**
+- Backend setup with **Node.js** and **MySql Workbench**
+- Brand identity creation and visual documentation
+- Professional presentation and client communication
 
-### 💬 Reflection (STAR)
+### Reflection (STAR)
 **S**ituation:** I participated in the Her Event Canvas WIL project as part of my professional development.  
 **T**ask:** Design a visual brand identity and initiate a functional system prototype.  
 **A**ction:** Created a detailed brand guideline, designed a Figma prototype, and began backend integration for event scheduling and management.  
@@ -196,28 +196,28 @@ Skills demonstrated:
 
 ---
 
-## 🌱 12. Bonus Projects
+## 12. Bonus Projects
 
-### 🧩 [GreenHub – View Project on GitHub](https://github.com/RelebohileMolefe2/The-Green-App)
+### [GreenHub – View Project on GitHub](https://github.com/RelebohileMolefe2/The-Green-App)
 A web-based recycling education platform helping users find nearby recycling centers and includes interactive educational games: *Recycle Quiz* and *Recycle Rush*.  
 **Tech Stack:** PHP, MySQL, JavaScript, HTML, CSS
 
-### ⚙️ Voting System
+### Voting System
 A Java Maven-based application allowing users to vote for cars and view real-time results.  
 **Focus:** Server-side architecture and real-time data handling.
 
-### 📱 [CPUT Mobile App UX – View Prototype on Figma](https://www.figma.com/design/b4mUdN8BMIPPPFup6pqAbn/Multimedia-wireframes?node-id=672-816&p=f&t=O1taqhSortrVvLPO-0)
+### [CPUT Mobile App UX – View Prototype on Figma](https://www.figma.com/design/b4mUdN8BMIPPPFup6pqAbn/Multimedia-wireframes?node-id=672-816&p=f&t=O1taqhSortrVvLPO-0)
 A mobile prototype designed to streamline CPUT student services through an intuitive UI.  
 **Principles:** Design Thinking, Gestalt principles, and UX best practices.
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 
 This portfolio encapsulates my holistic development as an ICT student, aspiring data scientist, and professional ready to enter the technology industry.  
 From communication and networking to real-world WIL project experience, each section represents growth, reflection, and readiness for the workplace.
 
-> 💡 *"Learning is a journey, not a destination — and every project is a step toward innovation."* – Relebohile B. Molefe
+> *"Learning is a journey, not a destination — and every project is a step toward innovation."* – Relebohile B. Molefe
 
 ---
 
