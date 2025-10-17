@@ -178,7 +178,7 @@ Each section includes tangible **evidence** and **reflections** written using th
 ## 11. WIL Project: Her Event Canvas
 
 ### Evidence
-- [View Brand & Logo Guideline Presentation (PDF)](https://github.com/yourusername/PRP370-Integrated-Portfolio/raw/main/HerEventCanvas_BrandGuideline.pdf)  
+- [View Brand & Logo Guideline Presentation (PDF)](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/HerEventCanvas_BrandGuideLine.pdf)  
 - [View Figma Prototype](https://www.figma.com/design/lLwHoX73d7UGGFBJIg54ix/Untitled?node-id=0-1&p=f&t=ln8ZzFJ6tWUCzlwP-0)  
 - Backend: In progress (Node.js + Firebase)
 - ![Her Event Canvas Logo](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/HerCanvas.png)
