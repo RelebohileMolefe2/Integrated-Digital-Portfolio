@@ -143,17 +143,19 @@ Each section includes tangible **evidence** and **reflections** written using th
 
 ---
 
-## 9. Professional Networking
+## 9. Professional Networking/AWS Developer Event
 
 ### Evidence
-- [LinkedIn Profile](https://www.linkedin.com/in/relebohile-molefe-2a2a4b234)  
-- Screenshot of LinkedIn connections or activity posts.
+- [LinkedIn Profile](https://www.linkedin.com/in/relebohile-molefe-2a2a4b234)
+- Picture from AWS Developer Event: ![AWS Event](link-to-your-picture)
+- Picture from AWS Developer Event: ![AWS Event](link-to-your-picture)  
+- Notes on key topics: modeling accountability, creating psychological safety, setting clear expectations, providing regular feedback, recognizing and rewarding team members.
 
 ### Reflection (STAR)
-**S**ituation: Networking was identified as a key career development area.  
-**T**ask: Build a professional online presence and connect with relevant peers and mentors.  
-**A**ction: Optimized my LinkedIn profile and started networking with professionals in ICT and data analytics.  
-**R**esult: Expanded my professional network and opened pathways for collaboration and future opportunities.
+**S**ituation: Networking was identified as a key career development area. I wanted to improve my understanding of effective teamwork and accountability in professional software development. 
+**T**ask: Build a professional online presence and connect with relevant peers and mentors. Attend the AWS Developer Event to learn best practices for collaborating in development teams and fostering a productive, safe, and accountable work environment. 
+**A**ction: Optimized my LinkedIn profile and started networking with professionals in ICT and data analytics. Participated in sessions and discussions about modeling accountability, creating psychological safety, setting clear expectations, giving feedback, and recognizing team contributions.  
+**R**esult: Expanded my professional network and opened pathways for collaboration and future opportunities. Gained valuable insights into fostering accountability and collaboration in development teams, which enhanced my awareness of leadership, teamwork, and professional responsibility as a developer.
 
 ---
 
