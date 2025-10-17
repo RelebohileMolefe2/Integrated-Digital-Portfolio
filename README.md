@@ -106,6 +106,7 @@ Each section includes tangible **evidence** and **reflections** written using th
 ### Evidence
 - Submitted my CV to Brand South Africa as part of WIL application.  
 - [View Cover Letter – Relebohile Molefe](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/RB%20MOLEFE_CV.pdf)
+  ![Brand South Africa](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/Internship%20Application.png)
 
 ### Reflection (STAR)
 **S**ituation: I wanted to apply to Brand South Africa’s Work Integrated Learning program.  
