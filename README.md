@@ -204,7 +204,7 @@ Skills demonstrated:
 
 ### Evidence
 - [View StudyBuddy on GitHub](https://github.com/RelebohileMolefe2/StudyBuddy)
-- ![StudyBuddy Preview](https://github.com/user-attachments/assets/your-screenshot-id-here)
+- ![StudyBuddy Preview](https://github.com/RelebohileMolefe2/Integrated-Digital-Portfolio/blob/main/studybuddy.png)
 > *A individual project developed to promote academic collaboration and engagement among university students.*
 
 ### Description
