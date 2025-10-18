@@ -200,7 +200,38 @@ Skills demonstrated:
 
 ---
 
-## 12. Bonus Projects
+## 12. Individual Project: StudyBuddy
+
+### Evidence
+- [View StudyBuddy on GitHub](https://github.com/RelebohileMolefe2/StudyBuddy)
+- ![StudyBuddy Preview](https://github.com/user-attachments/assets/your-screenshot-id-here)
+> *A individual project developed to promote academic collaboration and engagement among university students.*
+
+### Description
+**StudyBuddy** is a collaborative web application designed to help university students connect with peers who share similar courses, study goals, and learning styles.  
+The platform allows users to:
+- Form and join **study groups**
+- **Schedule sessions** and set reminders  
+- **Chat in real time** with peers  
+- Receive **smart notifications** for upcoming sessions  
+- Track study progress and participation
+
+**Goal:** To foster academic collaboration, improve study consistency, and build a supportive learning community.
+
+### Technologies Used
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP, MySQL  
+- **Other Tools:** Figma (UI design), Firebase (notifications)
+
+### Reflection (STAR)
+**S**ituation:** During my third-year studies, I identified a challenge faced by students who struggled to find reliable study partners and stay consistent.  
+**T**ask:** Develop a platform that bridges this gap by allowing students to connect, communicate, and collaborate efficiently.  
+**A**ction:** Designed and developed a functional prototype using PHP, MySQL, and JavaScript, focusing on user authentication, group creation, and real-time chat features.  
+**R**esult:** Delivered a responsive and collaborative system that promotes peer learning and organization, strengthening both my full-stack development and problem-solving skills.
+
+---
+
+## 13. Bonus Projects
 
 ### [GreenHub – View Project on GitHub](https://github.com/RelebohileMolefe2/The-Green-App)
 A web-based recycling education platform helping users find nearby recycling centers and includes interactive educational games: *Recycle Quiz* and *Recycle Rush*.  
